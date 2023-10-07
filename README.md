@@ -14,6 +14,8 @@ You can build the tool in visual studio OR run the pre built exe in releases
 
 # Features
 
+![plot](img/example_gui.png)
+
 Legit nothing. Im just experimenting ImGUI and trying to learn it.
 
 This was made using the ImGUI library with the directX9 library. The GUI is ugly right now but I will soon improve it
