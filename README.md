@@ -18,7 +18,7 @@ You can build the tool in visual studio OR run the pre built exe in releases
 
 ![plot](img/example_gui.png)
 
-[![GUI Preview](https://youtu.be/m4cp0uQON50?feature=shared)
+[![GUI Preview](https://youtu.be/m4cp0uQON50?feature=shared)]
 
 Legit nothing. Im just experimenting ImGUI and trying to learn it.
 
