@@ -18,7 +18,7 @@ You can build the tool in visual studio OR run the pre built exe in releases
 
 ![plot](img/example_gui.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4cp0uQON50?si=nVp9RxBPdQSCcGga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo](https://j.gifs.com/A6z6Dj.gif)](https://www.youtube.com/watch?v=m4cp0uQON50)
 
 Legit nothing. Im just experimenting ImGUI and trying to learn it.
 
