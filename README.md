@@ -12,6 +12,8 @@
 
 You can build the tool in visual studio OR run the pre built exe in releases
 
+### This is my first GUI! Its very bad I know!
+
 # Features
 
 ![plot](img/example_gui.png)
