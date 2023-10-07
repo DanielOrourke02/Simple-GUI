@@ -8,6 +8,16 @@
 
 [HERE](https://github.com/DanielJones02/Active-Projects)
 
+# Usage
+
+You can build the tool in visual studio OR run the pre built exe in releases
+
+# Features
+
+Legit nothing. Im just experimenting ImGUI and trying to learn it.
+
+This was made using the ImGUI library with the directX9 library. The GUI is ugly right now but I will soon improve it
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
