@@ -17,7 +17,8 @@ You can build the tool in visual studio OR run the pre built exe in releases
 # Features
 
 ![plot](img/example_gui.png)
-[![Demo CountPages alpha](img/preview.mp4)
+
+<video src='img/preview.mp4' width=180/>
 
 Legit nothing. Im just experimenting ImGUI and trying to learn it.
 
