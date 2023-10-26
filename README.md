@@ -14,15 +14,11 @@ You can build the tool in visual studio OR run the pre built exe in releases
 
 ### This is my first GUI! Its very bad I know!
 
-# Features
+# Preview
 
 ![plot](img/example_gui.png)
 
 [![Demo](img/ezgif.com-video-to-gif(1).gif)](https://www.youtube.com/watch?v=m4cp0uQON50)
-
-Legit nothing. Im just experimenting ImGUI and trying to learn it.
-
-This was made using the ImGUI library with the directX9 library. The GUI is ugly right now but I will soon improve it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
