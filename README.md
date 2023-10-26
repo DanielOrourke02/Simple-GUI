@@ -18,7 +18,7 @@ You can build the tool in visual studio OR run the pre built exe in releases
 
 ![plot](img/example_gui.png)
 
-[![Demo](https://j.gifs.com/A6z6Dj.gif)](https://www.youtube.com/watch?v=m4cp0uQON50)
+[![Demo](img/ezgif.com-video-to-gif(1).gif)](https://www.youtube.com/watch?v=m4cp0uQON50)
 
 Legit nothing. Im just experimenting ImGUI and trying to learn it.
 
