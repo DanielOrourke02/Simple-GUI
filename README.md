@@ -27,9 +27,7 @@ You can build the tool in visual studio OR run the pre built exe in releases
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h3 align="left">Hire Me: https://github.com/DanielJones02</h3>
-<p align="left">
-MOT ABLE TO BE HIRED AT THIS MOMENT
+<h3 align="left">Hire Me: https://discord.gg/kNWkT8xWg6 Or DM ME: mal023</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
